@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">officialFriend</string>
+    <string name="rankSpinner">직급을 선택해주세요.</string>
 </resources>

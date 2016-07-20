@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rankArray">
+        <item>9급 업무보조</item>
+        <item>8급 실무자</item>
+        <item>7급 실무자</item>
+        <item>6급 주무관</item>
+        <item>5급 계장</item>
+        <item>4급 고참계장</item>
+    </string-array>
+
+</resources>
